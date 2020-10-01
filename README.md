@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Data Structures & Algorithms
-- 🌱 I’m currently learning Js
+- 🔭 I’m currently a CS undergrad Student
+- 🌱 I’m currently learning DSA & js
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Web Devlepment
 - 💬 Ask me about DSA
