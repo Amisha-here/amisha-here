@@ -19,7 +19,7 @@ I'm dedicated,hard working,and an avid learner with interest in Computer Program
 
 - **Competitive Programming** : [Hackerearth](https://www.hackerearth.com/@ameeshapurswani) , [Codechef](https://www.codechef.com/users/amisha_26) , [Hackerrank](https://www.hackerrank.com/amisha_190180101) , [Geeksforgeeks](https://auth.geeksforgeeks.org/user/ameeshapurswani/practice/)
 
-**Here are some facts about me**:
+**Here are some facts about me :**
 
 - 🔭 I’m currently a Student
 - 🌱 I’m currently learning DSA & Web Technologies
@@ -29,6 +29,8 @@ I'm dedicated,hard working,and an avid learner with interest in Computer Program
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/amisha-purswani-4a09a1196/)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love playing Chess
+
+**Github Stats :**
 
 <a href="https://github.com/Amisha-here/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amisha-here" alt=".." />
