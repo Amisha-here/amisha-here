@@ -17,7 +17,9 @@ I'm dedicated,hard working,and an avid learner with interest in Computer Program
 
 - **CS Core**: `Data Structures`,`Algorithms`, `DBMS` , `OS` , `OOP`
 
-- **Competitive Programming** : [Hackerearth](https://www.hackerearth.com/@ameeshapurswani) , [codechef](https://www.codechef.com/users/amisha_26) , [hackerrank](https://www.hackerrank.com/amisha_190180101) , [geeksforgeeks](https://auth.geeksforgeeks.org/user/ameeshapurswani/practice/)
+- **Competitive Programming** : `[Hackerearth](https://www.hackerearth.com/@ameeshapurswani)` , `[codechef](https://www.codechef.com/users/amisha_26)` , `[hackerrank](https://www.hackerrank.com/amisha_190180101)` , `[geeksforgeeks](https://auth.geeksforgeeks.org/user/ameeshapurswani/practice/)`
+
+Here are some facts about me:
 
 - 🔭 I’m currently a Student
 - 🌱 I’m currently learning DSA & Web Technologies
@@ -27,7 +29,6 @@ I'm dedicated,hard working,and an avid learner with interest in Computer Program
 - 📫 How to reach me: [LinkediN](https://www.linkedin.com/in/amisha-purswani-4a09a1196/)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love playing Chess
-    
 
 <a href="https://github.com/Amisha-here/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amisha-here" alt=".." />
