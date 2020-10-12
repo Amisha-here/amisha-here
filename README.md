@@ -11,7 +11,7 @@ I'm dedicated,hard working,and an avid learner with interest in Computer Program
 
 - **Languages**: `C++`,`C`, `java`
 
-- **Web Technologies**: `Html`,`Css`, `js`,`ES6`,`angular`
+- **Web Technologies**: `Html`,`Css`, `js`,`ES6`,`react`
 
 - **Database Technologies**: `MySQL` 
 
