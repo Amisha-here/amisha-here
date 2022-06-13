@@ -30,7 +30,7 @@
   <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
 </a>
   <a href="https://twitter.com/AmishaPurswani">
-  <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/twitter.png"/>
+  <img align="left" width=70px src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png"/>
 </a>
 <a href="mailto:amishapurswani26@gmail.com">
   <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/gmail.png"/>
